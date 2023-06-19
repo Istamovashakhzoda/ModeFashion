@@ -36,3 +36,22 @@ a{
 a:hover{
     color: black;
 }
+
+.sectionSide{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.ins{
+    width: 550px;
+    height: 290px;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+
+.infortext{
+    color: blanchedalmond;
+    font-family: sans-serif;
+    font-size: 18px;
+}
